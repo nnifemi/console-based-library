@@ -1,0 +1,7 @@
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\bin\Debug\Final Project - Console Based Management Library System.exe.config
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\bin\Debug\Final Project - Console Based Management Library System.exe
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\bin\Debug\Final Project - Console Based Management Library System.pdb
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\obj\Debug\Final Project - Console Based Management Library System.csproj.AssemblyReference.cache
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\obj\Debug\Final Project - Console Based Management Library System.csproj.CoreCompileInputs.cache
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\obj\Debug\Final Project - Console Based Management Library System.exe
+C:\Users\odeye\OneDrive\Documents\Practice\Final Project - Console Based Management Library System\obj\Debug\Final Project - Console Based Management Library System.pdb
