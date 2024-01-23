@@ -16,13 +16,17 @@ This console-based application is a simple library management system that allows
 
 ## How to Run the Application
 
-### Prerequisites
-
-- [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
-
 ### Steps
 
 1. **Clone this repository to your local machine.**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
+git clone <https://github.com/nnifemi/console-based-library>
+
+2.
+
+## Special Instructions
+
+Genre Restriction: Users are allowed to enter only specific genres when adding, searching, or viewing a book. Please refer to the predefined list of genres.
+
+Press Any Key to Continue: After each operation, the user is prompted to press any key to continue. This clears the console for a cleaner interface.
+
+Exit: To exit the application, choose option 6 from the main menu.
